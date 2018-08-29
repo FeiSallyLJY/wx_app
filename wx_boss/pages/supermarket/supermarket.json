@@ -1,0 +1,514 @@
+{
+  "result": [
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4259449,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "今天 08:55",
+      "salary": "8k-15k",
+      "companyId": 124195,
+      "companyLogo": "i/image/M00/43/76/CgpFT1lfM6mAXFUwAABo_6cN6zw428.jpg",
+      "companyName": "丽兹行",
+      "companyFullName": "北京丽兹行房地产顾问有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "不限"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4034811,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "今天 09:12",
+      "salary": "8k-10k",
+      "companyId": 124195,
+      "companyLogo": "i/image/M00/43/76/CgpFT1lfM6mAXFUwAABo_6cN6zw428.jpg",
+      "companyName": "丽兹行",
+      "companyFullName": "北京丽兹行房地产顾问有限公司",
+      "ageLimit": "应届生",
+      "educationBackground": "初中及以下"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4897083,
+      "positionName": "会员商务拓展经理-市场营销部(J12989)",
+      "city": "北京",
+      "createTime": "今天 10:03",
+      "salary": "10k-15k",
+      "companyId": 1970,
+      "companyLogo": "image1/M00/00/06/CgYXBlTUWAeANQBuAABHTL1SBa8889.jpg",
+      "companyName": "去哪儿网",
+      "companyFullName": "北京趣拿软件科技有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "高中"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4543952,
+      "positionName": "JAVA开发工程师-市场营销部(J12717)",
+      "city": "北京",
+      "createTime": "今天 10:03",
+      "salary": "20k-30k",
+      "companyId": 1970,
+      "companyLogo": "image1/M00/00/06/CgYXBlTUWAeANQBuAABHTL1SBa8889.jpg",
+      "companyName": "去哪儿网",
+      "companyFullName": "北京趣拿软件科技有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 5018413,
+      "positionName": "驻韩市场营销",
+      "city": "北京",
+      "createTime": "今天 08:58",
+      "salary": "6k-10k",
+      "companyId": 149034,
+      "companyLogo": "i/image/M00/5B/EE/CgqKkVfiaO2AeouUAABrk5W83EQ723.jpg",
+      "companyName": "骏嘉财通",
+      "companyFullName": "北京骏嘉财通科技有限公司",
+      "ageLimit": "应届生",
+      "educationBackground": "大专"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 5018478,
+      "positionName": "驻韩市场营销",
+      "city": "北京",
+      "createTime": "今天 08:57",
+      "salary": "6k-10k",
+      "companyId": 149034,
+      "companyLogo": "i/image/M00/5B/EE/CgqKkVfiaO2AeouUAABrk5W83EQ723.jpg",
+      "companyName": "骏嘉财通",
+      "companyFullName": "北京骏嘉财通科技有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 3123136,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 11:34",
+      "salary": "10k-20k",
+      "companyId": 16033,
+      "companyLogo": "image1/M00/00/1E/CgYXBlTUWGeALSxAAABqzaujRPE369.png",
+      "companyName": "小黄人科技",
+      "companyFullName": "北京小黄人科技有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4694755,
+      "positionName": "市场营销专员",
+      "city": "北京",
+      "createTime": "昨天 19:48",
+      "salary": "6k-10k",
+      "companyId": 34573,
+      "companyLogo": "i/image2/M00/0E/80/CgotOVnld_SAEamPAAWRNUQDAiA976.png",
+      "companyName": "省钱快报",
+      "companyFullName": "北京九州云动科技有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "专科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4154755,
+      "positionName": "市场营销 (MJ000767)",
+      "city": "北京",
+      "createTime": "今天 10:01",
+      "salary": "10k-15k",
+      "companyId": 4448,
+      "companyLogo": "i/image/M00/4F/07/Cgp3O1etiV2AaBZpAAA7wHiME-0325.png",
+      "companyName": "挖财",
+      "companyFullName": "杭州财米科技有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "不限"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4154971,
+      "positionName": "市场营销 (MJ000767)",
+      "city": "北京",
+      "createTime": "今天 10:01",
+      "salary": "10k-15k",
+      "companyId": 4448,
+      "companyLogo": "i/image/M00/4F/07/Cgp3O1etiV2AaBZpAAA7wHiME-0325.png",
+      "companyName": "挖财",
+      "companyFullName": "杭州财米科技有限公司",
+      "ageLimit": "1年以内",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 284131,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 13:12",
+      "salary": "5k-10k",
+      "companyId": 16279,
+      "companyLogo": "i/image/M00/C4/0C/Cgp3O1jdrm2Af2QRAABI520PIrY611.png",
+      "companyName": "比特安索",
+      "companyFullName": "北京比特安索信息技术有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "大专"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 5007641,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 10:24",
+      "salary": "5k-10k",
+      "companyId": 278574,
+      "companyLogo": "i/image2/M00/14/F7/CgoB5lnyrQOAUvDIAABGJMVWSEY757.jpg",
+      "companyName": "新果文化",
+      "companyFullName": "北京新果文化传媒有限公司",
+      "ageLimit": "3-5年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4470796,
+      "positionName": "市场营销主管",
+      "city": "北京",
+      "createTime": "今天 09:55",
+      "salary": "4k-6k",
+      "companyId": 115706,
+      "companyLogo": "i/image/M00/67/5E/CgpEMlmfq-CAE4qkAAAcCLUwk3k272.png",
+      "companyName": "忆年",
+      "companyFullName": "武汉市追忆那年网络科技有限公司",
+      "ageLimit": "3-5年",
+      "educationBackground": "硕士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4813557,
+      "positionName": "市场营销专员",
+      "city": "北京",
+      "createTime": "昨天 11:33",
+      "salary": "6k-8k",
+      "companyId": 111938,
+      "companyLogo": "i/image2/M00/16/F5/CgotOVn4Ik-ACy_0AAAa9IIBtHc474.png",
+      "companyName": "上濒教育",
+      "companyFullName": "上濒成长教育科技（北京）有限责任公司",
+      "ageLimit": "1年以上",
+      "educationBackground": "博士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 3048090,
+      "positionName": "市场营销经理",
+      "city": "北京",
+      "createTime": "今天 17:50",
+      "salary": "20K-35K",
+      "companyId": 158369,
+      "companyLogo": "i/image3/M00/0F/A8/Cgq2xlpprZOAYhlEAAAbKRYMKWI969.png",
+      "companyName": "中电进出口",
+      "companyFullName": "中国电子进出口有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4264510,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "今天 08:55",
+      "salary": "8k-10k",
+      "companyId": 124195,
+      "companyLogo": "i/image/M00/43/76/CgpFT1lfM6mAXFUwAABo_6cN6zw428.jpg",
+      "companyName": "丽兹行",
+      "companyFullName": "北京丽兹行房地产顾问有限公司",
+      "ageLimit": "应届生",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 3515863,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "今天 08:55",
+      "salary": "10k-15k",
+      "companyId": 124195,
+      "companyLogo": "i/image/M00/43/76/CgpFT1lfM6mAXFUwAABo_6cN6zw428.jpg",
+      "companyName": "丽兹行",
+      "companyFullName": "北京丽兹行房地产顾问有限公司",
+      "ageLimit": "5-10年",
+      "educationBackground": "大专"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4744172,
+      "positionName": "大数据开发工程师-市场营销部(J12858)",
+      "city": "北京",
+      "createTime": "今天 10:03",
+      "salary": "15k-25k",
+      "companyId": 1970,
+      "companyLogo": "image1/M00/00/06/CgYXBlTUWAeANQBuAABHTL1SBa8889.jpg",
+      "companyName": "去哪儿网",
+      "companyFullName": "北京趣拿软件科技有限公司",
+      "ageLimit": "10年以上",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4616643,
+      "positionName": "测试开发工程师-市场营销部(J12777)",
+      "city": "北京",
+      "createTime": "今天 10:03",
+      "salary": "20k-40k",
+      "companyId": 1970,
+      "companyLogo": "image1/M00/00/06/CgYXBlTUWAeANQBuAABHTL1SBa8889.jpg",
+      "companyName": "去哪儿网",
+      "companyFullName": "北京趣拿软件科技有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "不限"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 3621390,
+      "positionName": "市场营销专员",
+      "city": "北京",
+      "createTime": "今天 20:39",
+      "salary": "8k-10k",
+      "companyId": 149034,
+      "companyLogo": "i/image/M00/5B/EE/CgqKkVfiaO2AeouUAABrk5W83EQ723.jpg",
+      "companyName": "骏嘉财通",
+      "companyFullName": "北京骏嘉财通科技有限公司",
+      "ageLimit": "1年以内",
+      "educationBackground": "大专"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 3399465,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 16:34",
+      "salary": "10K-20K",
+      "companyId": 176358,
+      "companyLogo": "i/image/M00/B1/B4/Cgp3O1i5RquATgh3AAA3RqhSuHw989.png",
+      "companyName": "中国人寿售后服务部",
+      "companyFullName": "中国人寿保险股份有限公司北京市分公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4928761,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "2018-08-19",
+      "salary": "4k-8k",
+      "companyId": 64060,
+      "companyLogo": "i/image/M00/BF/FB/CgqKkVjRKOGAYn0AAAAc-uP93d4170.jpg",
+      "companyName": "赛氪",
+      "companyFullName": "环球赛乐（北京）科技有限公司",
+      "ageLimit": "3-5年",
+      "educationBackground": "硕士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4736871,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 15:46",
+      "salary": "10k-20k",
+      "companyId": 354060,
+      "companyLogo": "i/image/M00/86/BA/CgpFT1rQdTeADjEUAAAZkx6yzfw060.jpg",
+      "companyName": "火山阳光体育",
+      "companyFullName": "北京火山阳光体育发展有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4815544,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 09:33",
+      "salary": "10k-20k",
+      "companyId": 166049,
+      "companyLogo": "i/image/M00/8D/20/CgqKkViEaVOAThG0AAAWZ68oa5E285.jpg",
+      "companyName": "时序空间",
+      "companyFullName": "北京时序空间科技有限公司",
+      "ageLimit": "不限",
+      "educationBackground": "不限"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4750927,
+      "positionName": "市场营销经理",
+      "city": "北京",
+      "createTime": "今天 14:05",
+      "salary": "20k-40k",
+      "companyId": 534,
+      "companyLogo": "i/image2/M01/70/AC/CgoB5ltYG_-AYFOwAAAMVraNaw0666.jpg",
+      "companyName": "京东金融",
+      "companyFullName": "京东金融",
+      "ageLimit": "3-5年",
+      "educationBackground": "不限"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4392029,
+      "positionName": "市场专员（市场营销方向）",
+      "city": "北京",
+      "createTime": "今天 10:23",
+      "salary": "9k-12k",
+      "companyId": 11209,
+      "companyLogo": "image1/M00/00/16/CgYXBlTUWEaAaB5jAACYgc4pee4229.png",
+      "companyName": "果壳网",
+      "companyFullName": "北京果壳互动科技传媒有限公司",
+      "ageLimit": "1年以内",
+      "educationBackground": "博士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 5021357,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "昨天 12:34",
+      "salary": "8k-15k",
+      "companyId": 388572,
+      "companyLogo": "i/image/M00/92/88/CgpEMlsDrSuABlWvAAEKSMmbXwk762.png",
+      "companyName": "鑫霏软件",
+      "companyFullName": "上海鑫霏软件开发有限公司",
+      "ageLimit": "3-5年",
+      "educationBackground": "本科"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4054667,
+      "positionName": "市场营销经理",
+      "city": "北京",
+      "createTime": "今天 14:56",
+      "salary": "15k-30k",
+      "companyId": 142041,
+      "companyLogo": "i/image/M00/4B/CF/CgqKkVegcseALD16AAAVSajOe6w452.jpg",
+      "companyName": "奇虎360金融",
+      "companyFullName": "上海淇毓信息科技有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "博士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4940034,
+      "positionName": "市场营销经理(J10077)",
+      "city": "北京",
+      "createTime": "昨天 17:36",
+      "salary": "15k-25k",
+      "companyId": 46399,
+      "companyLogo": "i/image/M00/02/83/CgqKkVaTDLmAeVUrAAK2B39-3-M618.jpg",
+      "companyName": "会分期",
+      "companyFullName": "会找房（北京）网络技术有限公司",
+      "ageLimit": "1年以内",
+      "educationBackground": "硕士"
+    },
+    {
+      "logger": {
+        "traceCapable": true,
+        "name": "com.lagou.entity.mobile.MobilePosition"
+      },
+      "positionId": 4094389,
+      "positionName": "市场营销",
+      "city": "北京",
+      "createTime": "2018-08-15",
+      "salary": "6k-10k",
+      "companyId": 46348,
+      "companyLogo": "image1/M00/00/77/Cgo8PFTUXauAeNlYAABE12ZYmEU829.gif",
+      "companyName": "北京麦田",
+      "companyFullName": "北京麦田房产经纪有限公司",
+      "ageLimit": "1-3年",
+      "educationBackground": "不限"
+    }
+  ]
+}

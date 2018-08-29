@@ -1,0 +1,6 @@
+<!--pages/data_hi/data_hi.wxml-->
+<!-- 微信2.2.3版本存储自定义属性的方式(data-)="value"
+    获取方式:event.target.dataest.里面储存
+
+ -->
+<view id="tapTest" data-hi="WeChat" data-hello="ljy!" oc="cat" bindtap="tapName"> Click me! </view>

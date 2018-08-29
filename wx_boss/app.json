@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/boss/boss",
+    "pages/overflowScroll/overflowScroll",
+    "pages/ex/ex",
+    
+    "pages/data_hi/data_hi",
+    "pages/PHP/PHP",
+    "pages/product/product",
+    "pages/supermarket/supermarket",
+    "pages/people/people",
+    "pages/UI/UI",
+    "pages/city/city",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "BOSS直聘",
+    "navigationBarTextStyle": "black"
+  }
+}

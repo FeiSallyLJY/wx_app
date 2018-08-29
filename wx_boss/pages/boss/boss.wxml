@@ -1,0 +1,90 @@
+<!--pages/boss/boss.wxml-->
+<view class='header'>
+ <image src='../../images/2.png'></image>
+  <view class='search'>
+    <input class='input_search' placeholder="搜索职位 / 公司"/>
+    <button class='btn_search'plain="true" bindtap="search">搜索</button>
+  </view>
+ </view>
+ <view class='wrap'>
+    <view class='sign'>
+       <image src='../../images/3.png'></image>
+       <text class='name'>技术</text>
+       <view class='buttom'>
+        <navigator url='../../pages/supermarket/supermarket'>JAVA</navigator>
+          <navigator url='../../pages/PHP/PHP'>PHP</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>Web前端</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>数据挖掘</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>C++</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>Python</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>Android</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>IOS</navigator>
+       </view>
+    </view>
+     <view class='sign'>
+       <image src='../../images/4.png'></image>
+      <text class='name'>产品</text>
+      <view class='buttom'>
+          <navigator url='../../pages/product/product'>产品经理</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>产品助理</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>网页产品经理</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>数据产品经理</navigator>
+         </view>
+    </view>
+      <view class='sign'>
+        <image src='../../images/5.png'></image>
+      <text class='name'>设计</text>
+      <view class='buttom'>
+          <navigator url='../../pages/UI/UI'>UI设计师</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>平面设计师</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>交互设计师</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>设计总监</navigator>
+         </view>
+    </view>
+     <view class='sign'>
+     <image src='../../images/6.png'></image>
+    <text class='name'>市场</text>
+    <view class='buttom'> 
+          <navigator url='../../pages/supermarket/supermarket'>市场营销</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>商务渠道</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>品牌公关</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>市场总监</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>策划经理</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>活动策划</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>SEO</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>SEM</navigator>
+        </view>
+    </view> 
+     <view class='sign'>
+     <image src='../../images/7.png'></image>
+     <text class='name'>运营</text>
+     <view class='buttom'>
+          <navigator url='../../pages/supermarket/supermarket'>用户运营</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>产品运营</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>新媒体运营</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>运营总监</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>商家运营</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>电商运营</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>编辑</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>客服经理</navigator>
+       </view>
+    </view>
+    <view class='sign'>
+     <image  src='../../images/8.png'></image>
+     <text class='name'>职能/高级管理</text>
+     <view class='buttom'>
+          <navigator url='../../pages/people/people'>人力资源</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>行政</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>财务</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>会计</navigator>
+          <navigator url='../../pages/supermarket/supermarket'>HRBP</navigator>
+      </view>
+    </view>
+  <view class='add'></view>
+  <view class='footer'>
+    <image src='../../images/logo.png'></image>
+    <text class='follow'>找工作要跟boss谈</text>
+  
+    <button class='register'>立即注册</button>
+  </view>
+ </view>

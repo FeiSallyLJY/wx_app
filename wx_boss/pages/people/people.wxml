@@ -1,0 +1,68 @@
+<!--pages/people/people.wxml-->
+<view class='header'>
+  <navigator url='../../pages/boss/boss'>
+    <image src='../../images/back.png'></image>
+  </navigator>
+  <view class='search'>
+    <navigator url='../../pages/city/city'>北京 </navigator>
+    <input type='text' placeholder='PHP'></input>
+   </view>
+   <button class='btn_search'plain="true" bindtap="search">搜索</button>
+</view>
+<view class="phone_one" >
+  <view bindtap="clickE" class="phone_personal">{{firstPerson[0]}}</view>
+  <image src="../../images/arrows.png" class="personal_image {{selectArea ? 'rotateRight' :''}}"></image>
+  <view bindtap="clickStudy" class="phone_personal">{{firstPerson[1]}}</view>
+  <image src="../../images/arrows.png" class="personal_image {{selectS ? 'rotateRight' :''}}"></image>
+  <view class="phone_personal">{{firstPerson[2]}}</view>
+  <image src="../../images/arrows.png"></image>
+  <view class="phone_personal">{{firstPerson[3]}}</view>
+  <image src="../../images/arrows.png"></image>
+  <view class="phone_personal">{{firstPerson[4]}}</view>
+  <image src="../../images/arrows.png"></image>
+</view>
+ <view class="person_box">
+   <view class="phone_select" hidden="{{selectPerson}}">
+   <view class="select_one">不限</view>
+    <view class="select_one">应届生</view>
+    <view class="select_one">1年以内</view>
+    <view class="select_one">1-3年</view>
+    <view class="select_one">3-5年</view>
+    <view class="select_one">1年以内</view>
+  </view>
+ </view>
+  <view class="person_box">
+   <view class="phone_select" hidden="{{selectstudy}}">
+   <view class="select_one">不限</view>
+    <view class="select_one">初中及以下</view>
+    <view class="select_one">中专 / 中技</view>
+    <view class="select_one">高中</view>
+    <view class="select_one">大专</view>
+    <view class="select_one">本科</view>
+    <view class="select_one">硕士</view>
+    <view class="select_one">博士</view>
+  </view>
+ </view>
+
+<view hidden="{{selectAnother}}"  class='view' wx:for="{{json.result}}">
+  <view class='view_left'>
+    <image src='//www.lgstatic.com/{{item.companyLogo}}'></image>
+    <view class='left_view'>
+      <view>{{item.companyFullName}}</view>
+      <view>
+        <text>{{item.positionName}}</text>
+</view>
+      <view>
+        <text>{{item.city}}</text>
+        <text>{{item.ageLimit}}</text>
+        <text>{{item.educationBackground}}</text>
+      </view>
+      
+    </view>
+    <view class='view_right'>{{item.salary}}</view>
+  </view>
+</view>
+
+
+
+
